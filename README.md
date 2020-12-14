@@ -1,2 +1,2 @@
 # Figures
-https://maria-zinkevich.github.io/Figures/
+https://maria-zinkevich.github.io/css-figures/
